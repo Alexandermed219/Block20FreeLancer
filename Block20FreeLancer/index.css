@@ -1,0 +1,27 @@
+html {
+    background-color: rgb(34, 34, 34);
+    color: rgb(243, 194, 33);
+}
+
+.custom-class {
+    color: gold;
+    font-size: 18px;
+    padding: 10px;
+    margin: 10px;
+    border: 10px;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: solid 20px teal ;
+    align-items: center;
+  }
+
+  h1 {
+    color: aqua;
+    justify-content: center;
+    display: flex;
+    text-decoration: underline;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
